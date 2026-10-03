@@ -1,0 +1,6 @@
+{
+  "name": "Plano de Marketing Digital & Tráfego Pago",
+  "description": "Plano de marketing mensal com foco em tráfego pago (Facebook & Instagram Ads), cronograma semanal, matriz de conteúdos e gestão de custos para empresas de suprimentos e escritórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
